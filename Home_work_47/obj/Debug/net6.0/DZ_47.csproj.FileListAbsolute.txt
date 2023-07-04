@@ -1,0 +1,15 @@
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_47\obj\Debug\net6.0\DZ_47.csproj.AssemblyReference.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_47\obj\Debug\net6.0\DZ_47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_47\obj\Debug\net6.0\DZ_47.AssemblyInfoInputs.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_47\obj\Debug\net6.0\DZ_47.AssemblyInfo.cs
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_47\obj\Debug\net6.0\DZ_47.csproj.CoreCompileInputs.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_47\bin\Debug\net6.0\DZ_47.exe
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_47\bin\Debug\net6.0\DZ_47.deps.json
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_47\bin\Debug\net6.0\DZ_47.runtimeconfig.json
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_47\bin\Debug\net6.0\DZ_47.dll
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_47\bin\Debug\net6.0\DZ_47.pdb
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_47\obj\Debug\net6.0\DZ_47.dll
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_47\obj\Debug\net6.0\refint\DZ_47.dll
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_47\obj\Debug\net6.0\DZ_47.pdb
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_47\obj\Debug\net6.0\DZ_47.genruntimeconfig.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_47\obj\Debug\net6.0\ref\DZ_47.dll

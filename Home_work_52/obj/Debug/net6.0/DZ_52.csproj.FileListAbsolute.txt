@@ -1,0 +1,15 @@
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_52\bin\Debug\net6.0\DZ_52.exe
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_52\bin\Debug\net6.0\DZ_52.deps.json
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_52\bin\Debug\net6.0\DZ_52.runtimeconfig.json
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_52\bin\Debug\net6.0\DZ_52.dll
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_52\bin\Debug\net6.0\DZ_52.pdb
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_52\obj\Debug\net6.0\DZ_52.csproj.AssemblyReference.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_52\obj\Debug\net6.0\DZ_52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_52\obj\Debug\net6.0\DZ_52.AssemblyInfoInputs.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_52\obj\Debug\net6.0\DZ_52.AssemblyInfo.cs
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_52\obj\Debug\net6.0\DZ_52.csproj.CoreCompileInputs.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_52\obj\Debug\net6.0\DZ_52.dll
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_52\obj\Debug\net6.0\refint\DZ_52.dll
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_52\obj\Debug\net6.0\DZ_52.pdb
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_52\obj\Debug\net6.0\DZ_52.genruntimeconfig.cache
+C:\Users\karasev.n\Desktop\Project\Seminar_07\DZ_52\obj\Debug\net6.0\ref\DZ_52.dll
